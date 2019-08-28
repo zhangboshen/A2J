@@ -6,12 +6,12 @@ In this paper, we propose a simple and effective approach for 3D hand and human 
 
 Please refer to our paper for more details, https://arxiv.org/abs/1908.09999.
 
-![pipeline](https://github.com/zhangboshen/A2J/blob/master/fig/A2Jpipeline.pdf)
+![pipeline](https://github.com/zhangboshen/A2J/blob/master/fig/A2Jpipeline.png)
 
 ## Qualitative Results
-![NYU_1](https://github.com/zhangboshen/A2J/blob/master/fig/NYU_1.pdf)
+![NYU_1](https://github.com/zhangboshen/A2J/blob/master/fig/NYU_1.png)
 
-![ITOP_1](https://github.com/zhangboshen/A2J/blob/master/fig/ITOP_1.pdf)
+![ITOP_1](https://github.com/zhangboshen/A2J/blob/master/fig/ITOP_1.png)
 
 
 # Coming soon...
