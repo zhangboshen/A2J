@@ -9,8 +9,11 @@ Please refer to our paper for more details, https://arxiv.org/abs/1908.09999.
 ![pipeline](https://github.com/zhangboshen/A2J/blob/master/fig/A2Jpipeline.png)
 
 ## Qualitative Results
+#### [NYU](https://jonathantompson.github.io/NYU_Hand_Pose_Dataset.htm) hand pose dataset:
 ![NYU_1](https://github.com/zhangboshen/A2J/blob/master/fig/NYU_1.png)
+&nbsp;
 
+#### [ITOP](https://www.alberthaque.com/projects/viewpoint_3d_pose/) body pose dataset:
 ![ITOP_1](https://github.com/zhangboshen/A2J/blob/master/fig/ITOP_1.png)
 
 
