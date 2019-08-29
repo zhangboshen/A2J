@@ -8,6 +8,16 @@ Please refer to our paper for more details, https://arxiv.org/abs/1908.09999.
 
 ![pipeline](https://github.com/zhangboshen/A2J/blob/master/fig/A2Jpipeline.png)
 
+If you find our work useful in your research or publication, please cite our work:
+```
+@inproceedings{A2J,
+author = {Xiong, Fu and Zhang, Boshen and Xiao, Yang and Cao, Zhiguo and Yu, Taidong and Zhou Tianyi, Joey and Yuan, Junsong},
+title = {A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image},
+booktitle = {Proceedings of the IEEE Conference on International Conference on Computer Vision (ICCV)},
+year = {2019}
+}
+```
+
 ## Qualitative Results
 #### [NYU](https://jonathantompson.github.io/NYU_Hand_Pose_Dataset.htm) hand pose dataset:
 ![NYU_1](https://github.com/zhangboshen/A2J/blob/master/fig/NYU_1.png)
@@ -18,3 +28,5 @@ Please refer to our paper for more details, https://arxiv.org/abs/1908.09999.
 
 
 # Code is coming soon...
+
+
