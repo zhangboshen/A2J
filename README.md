@@ -17,6 +17,10 @@ booktitle = {Proceedings of the IEEE Conference on International Conference on C
 year = {2019}
 }
 ```
+## Comparison with state-of-the-art methods
+![result_hand](https://github.com/zhangboshen/A2J/blob/master/fig/result_hand.png)
+![result_body](https://github.com/zhangboshen/A2J/blob/master/fig/result_body.png)
+
 
 ## Qualitative Results
 #### [NYU](https://jonathantompson.github.io/NYU_Hand_Pose_Dataset.htm) hand pose dataset:
