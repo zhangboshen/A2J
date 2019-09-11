@@ -1,3 +1,9 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a2j-anchor-to-joint-regression-network-for-3d/pose-estimation-on-hands-2017)](https://paperswithcode.com/sota/pose-estimation-on-hands-2017?p=a2j-anchor-to-joint-regression-network-for-3d) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a2j-anchor-to-joint-regression-network-for-3d/hand-pose-estimation-on-nyu-hands)](https://paperswithcode.com/sota/hand-pose-estimation-on-nyu-hands?p=a2j-anchor-to-joint-regression-network-for-3d)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a2j-anchor-to-joint-regression-network-for-3d/hand-pose-estimation-on-icvl-hands)](https://paperswithcode.com/sota/hand-pose-estimation-on-icvl-hands?p=a2j-anchor-to-joint-regression-network-for-3d) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a2j-anchor-to-joint-regression-network-for-3d/pose-estimation-on-itop-front-view)](https://paperswithcode.com/sota/pose-estimation-on-itop-front-view?p=a2j-anchor-to-joint-regression-network-for-3d)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a2j-anchor-to-joint-regression-network-for-3d/pose-estimation-on-itop-top-view)](https://paperswithcode.com/sota/pose-estimation-on-itop-top-view?p=a2j-anchor-to-joint-regression-network-for-3d)
+
+
+
 # A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image
 ## Introduction
 This is the official implementation for the paper, **"A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image"**, ICCV 2019. 
