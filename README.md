@@ -42,7 +42,9 @@ Our code is tested under Ubuntu 16.04 environment with NVIDIA 1080Ti GPU, both P
 
 ## code
 First clone this repository:  
-`  git clone https://github.com/zhangboshen/A2J  `
+```python
+git clone https://github.com/zhangboshen/A2J
+```
 
 - `src` folder contains model definition, anchor, and test files for NYU, ICVL, HANDS2017, ITOP, K2HPD datasets.
 - `data` folder contains center point, bounding box, mean/std, and GT keypoints files for 5 datasets.
