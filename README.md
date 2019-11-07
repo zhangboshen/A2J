@@ -36,7 +36,6 @@ year = {2019}
 
 
 # About our code 
----
 ## Dependencies
 Our code is tested under Ubuntu 16.04 environment with NVIDIA 1080Ti GPU, both Pytorch0.4.1 and Pytorch1.2 work (Pytorch1.0/1.1 should also work).
 
@@ -49,9 +48,9 @@ git clone https://github.com/zhangboshen/A2J
 - `src` folder contains model definition, anchor, and test files for NYU, ICVL, HANDS2017, ITOP, K2HPD datasets.
 - `data` folder contains center point, bounding box, mean/std, and GT keypoints files for 5 datasets.
 
-Next you may download our pre-trained files from:    
-https://pan.baidu.com/s/10QBT7mKEyypSkZSaFLo1Vw  
-(I will upload this to google drive as well.)
+Next you may download our pre-trained model files from:     
+- Baidu Yun: https://pan.baidu.com/s/10QBT7mKEyypSkZSaFLo1Vw    
+- Google Drive: https://drive.google.com/open?id=1fGe3K1mO934WPZEkHLCX7MNgmmgzRX4z
 
 Directory structure of this code should look like:  
 ```
