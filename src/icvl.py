@@ -17,9 +17,9 @@ u0 = 160
 v0 = 120
 
 TestImgFrames = 1596
-validIndex_train = np.load('../data/icvl/validIndex.npy')
+#validIndex_train = np.load('../data/icvl/validIndex.npy')
 validIndex_test = np.arange(TestImgFrames)
-TrainImgFrames = len(validIndex_train)
+#TrainImgFrames = len(validIndex_train)
 
 keypointsNumber = 16
 cropWidth = 176
