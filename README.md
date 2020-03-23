@@ -5,6 +5,10 @@
 
 
 # A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image
+
+## Update (2020-3-23)
+We released our training code [here](https://github.com/zhangboshen/A2J/tree/master/src_train). 
+
 ## Introduction
 This is the official implementation for the paper, **"A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image"**, ICCV 2019. 
 
@@ -36,6 +40,7 @@ year = {2019}
 
 
 # About our code 
+
 ## Dependencies
 Our code is tested under Ubuntu 16.04 environment with NVIDIA 1080Ti GPU, both Pytorch0.4.1 and Pytorch1.2 work (Pytorch1.0/1.1 should also work).
 
