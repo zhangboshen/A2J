@@ -1,9 +1,9 @@
 
 # Training code for NYU dataset.
 
-We release our training code for NYU dataset. Other datasets can be easily reproduced wit minor modifications. 
+We release our training code for NYU dataset. Other datasets can be easily reproduced with minor modifications. 
 
-In `nyu.py` we show all of the data augmentation strategies mentioned in original paper.
+In `nyu.py` we show all of the data augmentation strategies mentioned within the paper.
 
 In `anchor.py`, `A2J_loss` combines the **Joint position estimation loss** and **Informative anchor point surrounding loss**. Details can be found in our paper.
 
