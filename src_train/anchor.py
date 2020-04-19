@@ -148,7 +148,7 @@ class A2J_loss(nn.Module):
                     0.5 * (1/3) * torch.pow(regression_diff_depth, 2),
                     regression_diff_depth - 0.5 / (1/3)
                     )
-                regression_loss += regression_diff_depth.mean()           
+                regression_loss += regression_loss_depth.mean()           
 ############################################################
             regression_losses.append(regression_loss)
         return torch.stack(anchor_regression_loss_tuple).mean(dim=0, keepdim=True), torch.stack(regression_losses).mean(dim=0, keepdim=True)   
