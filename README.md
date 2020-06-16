@@ -5,6 +5,9 @@
 
 
 # A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image
+## Update (2020-6-16)
+We upload A2J's prediction results in pixel coordinates (i.e., UVD format) for NYU and ICVL datasets: https://github.com/zhangboshen/A2J/tree/master/result_nyu_icvl,
+Evaluation code (https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation) can be applied for performance comparision among SoTA methods.
 
 ## Update (2020-3-23)
 We released our training code [here](https://github.com/zhangboshen/A2J/tree/master/src_train). 
